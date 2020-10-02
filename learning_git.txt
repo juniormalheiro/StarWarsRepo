@@ -4,3 +4,5 @@
 4 - git commit - para comitar o arquivo
 5 - git status - para ver o status do arquivo
 6 - git log - para ver os comits do arquivo
+7 - git push - envia os commits de um branch para um repositorio remoto.
+

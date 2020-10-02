@@ -1,0 +1,45 @@
+1 - git add <lista de arquivos>
+ADICIONA OS ARQUIVOS NOVOS E MODIFICADOS PARA O PROXIMO COMMIT.
+
+2 - git commit -m "mensagem"
+REGISTRA O COMMIT COM TODOS OS ARQUIVOS QUE USOU O "GIT ADD".
+
+git config --global core.editor gedit
+COMANDO ACIMA É PARA ALTERAR O EDITOR DO GIT(nano, vi, vim, etc).
+
+Resumo das operações do Git no dia-a-dia.
+- EDITAR
+- COMMITAR
+- SINCRONIZAR COM O REPOSITÓRIO REMOTO
+--------------------------------------------------------------------------------------------------------
+git status - A gente vê o status do repositório Git, ve os arquivos que nao estao adicionados ao commit, arquivos que já foram adicionados ao commit.
+
+git log - Vai mostrar os ultimos commits feitos.
+
+git add - Adicionar arquivos ao commit.
+
+git commit - Vai criar o commit.
+
+git push - Vai mandar todos os commits que ainda nao tiverem sido enviados para o repositorio de origem, no caso o gitHub.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
