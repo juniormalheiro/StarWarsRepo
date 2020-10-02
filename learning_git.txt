@@ -1,0 +1,6 @@
+1 - git init - para criar o repositorio
+2 - notepad personagens - para criar um arquivo
+3 - git add personagens.txt - para adicionar o arquivo
+4 - git commit - para comitar o arquivo
+5 - git status - para ver o status do arquivo
+6 - git log - para ver os comits do arquivo

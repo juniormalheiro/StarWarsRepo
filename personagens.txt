@@ -1,2 +1,6 @@
 luke skywalker
 darth vader
+
+
+git config --global user.email "you_email@example.com"
+git config --global user.name "Your name"
