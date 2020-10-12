@@ -22,6 +22,7 @@ git commit - Vai criar o commit.
 
 git push - Vai mandar todos os commits que ainda nao tiverem sido enviados para o repositorio de origem, no caso o gitHub.
 
+git config --list Comando para ver as variaveis de configuracao do git.
 
 
 
