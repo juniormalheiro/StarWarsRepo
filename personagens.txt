@@ -7,7 +7,7 @@ testando silva
 git config --global user.email "you_email@example.com"
 git config --global user.name "Your name"
 
-"A busca por conhecimento deve se algo tão natural como respirar."
+"A busca por conhecimento deve se algo tão natural quanto respirar."
 
 
 
