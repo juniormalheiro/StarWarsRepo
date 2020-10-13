@@ -26,7 +26,7 @@ git push - Vai mandar todos os commits que ainda nao tiverem sido enviados para 
 
 git config --list Comando para ver as variaveis de configuracao do git.
 
-
+git clone - Informe em seguida o link do repositorio a ser clonado.
 
 
 
