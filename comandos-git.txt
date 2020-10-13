@@ -12,6 +12,8 @@ Resumo das operações do Git no dia-a-dia.
 - COMMITAR
 - SINCRONIZAR COM O REPOSITÓRIO REMOTO
 --------------------------------------------------------------------------------------------------------
+git init -> Cria/inicializa um repositorio em um diretorio existente.
+
 git status - A gente vê o status do repositório Git, ve os arquivos que nao estao adicionados ao commit, arquivos que já foram adicionados ao commit.
 
 git log - Vai mostrar os ultimos commits feitos.
