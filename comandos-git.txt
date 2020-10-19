@@ -29,20 +29,7 @@ git config --list Comando para ver as variaveis de configuracao do git.
 git clone - Informe em seguida o link do repositorio a ser clonado.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Teste de comentarios...
 
 
 
