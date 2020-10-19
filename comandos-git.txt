@@ -31,5 +31,19 @@ git clone - Informe em seguida o link do repositorio a ser clonado.
 
 Teste de comentarios...
 
+-----------------------
+Sequencia:
+1 - git init
+2 - git clone
+3 - vi <arquivo>
+4 - git add
+5 - git commit -m "comentario"
+6 - git push
+Feito o processo de criacao de repositorio local.
+Feito o processo de clonagem de um repositorio remoto.
+Feito o processo de edicao do arquivo.
+Feito o processo de adicionar o arquivo.
+Feito o processo de comitar o arquivo.
+Feito o processo de envio do arquivo ao repositorio remoto.
 
 
